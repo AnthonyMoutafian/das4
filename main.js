@@ -1,2 +1,5 @@
-let i = 2
-console.log (i**12)
+let i = "*"
+while (i < "* * * * * * * * ") {
+console.log(i)
+i = i + " *"
+}
